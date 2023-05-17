@@ -1,4 +1,4 @@
-# Partially Supervised Segmentation via CAM-Guided Class-Agnostic Segmentation
+# Partially Supervised Semantic Segmentation
 
 Code adapted from: https://github.com/jbeomlee93/AdvCAM  
 Used classifier:        https://drive.google.com/file/d/1G0UkgjA4bndGBw2YFCrBpv71M5bj86qf/view?usp=sharing
